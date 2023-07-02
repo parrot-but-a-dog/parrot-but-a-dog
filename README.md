@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @parrot-but-a-dog
+- 👀 I’m interested in educational technology development
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on a Khan Academy/Open source AI homeowrk project with a capability to request live assistance from real people through video chat
+- 📫 How to reach me @henryms210@gmail.com or my discord is marshall#0768
